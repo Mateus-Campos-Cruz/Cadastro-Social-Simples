@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #cbdde0;       
+}
+
+
+.formulario{
+    border: 1px solid #032858;
+    box-shadow: 5px 5px 5px black;
+    width: 70%;
+    margin: auto;    
+}
+
+h1{
+    font-size: 1.2em;
+    text-align: center;   
+    color: #032858; 
+    font-weight: bold;  
+     
+       
+}
+
+.cadastro h1{    
+    margin-bottom: 30px;     
+    margin-top: 30px;
+}
+
+.header{
+    background-color: #032858;
+    color: white;
+    padding: 7px;
+      
+}
+
+h3{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;  
+}
+
+form{
+    padding: 15px;
+    background-color: white;
+}
+
+label{
+    font-size: 0.7em;
+    color: #032858; 
+    font-weight: bold;
+    margin-top: 15px;    
+}
+
+input{
+    padding: 5px; 
+}
+
+#div-sub{
+    width: 350px;  
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 0.9em; 
+   
+
+}
+
+#pesquisar2 a{
+    margin-top: -5px; 
+}
+
+#pesquisar2:hover{
+    background-color: blue;
+    color: white;
+}
+
+#pesquisar2{
+    width: 170px;
+    height: 45px;       
+    padding: 10px 30px; 
+    display: inline-block;
+    border: 1px blue solid;
+    border-radius: 5px;
+    text-align: center;
+}
+#pesquisar{
+    width: 170px;
+    height: 45px;      
+    margin: 0;
+    display: inline-block;    
+}
+
+#voltar2 a{
+    margin-top: -5px; 
+}
+
+#voltar2:hover{
+    background-color: blue;
+    color: white;
+}
+
+#voltar2{
+    width: 170px;
+    height: 45px;       
+    padding: 10px 30px; 
+    display: inline-block;
+    border: 1px blue solid;
+    border-radius: 5px;
+    text-align: center;
+}
+#voltar{
+    width: 170px;
+    height: 45px; 
+    margin-left: 45%;   
+    margin-top: 30px;
+    display: inline-block;    
+}
+
+
+#sub{
+    padding: 10px 30px;  
+    margin-top: -3px;  
+}
+#part2{
+    height: 100px;
+    width: 100%;
+}
+
+#cpf, #dataNasc, #sexo{
+    width: 270px;
+    height: 50px;
+    margin: 0;
+    display: inline-block;
+}
+
+#dataNasc, #sexo{
+    margin-left: 45px;
+}
+
+#sexo select{
+    color: #a9adad;
+}
+
+#dataNasc input{  
+    color: #a9adad;
+}
+
+#sexo{
+    width: 270px;
+}
+
+#estadoCivil, #renda{
+    width: 440px;
+    display: inline-block;
+}
+
+#estadoCivil select{  
+    color: #a9adad;
+}
+
+#renda{
+    margin-left: 20px;
+}
+
+#part4{
+    width: 100%;  
+}
+
+#rua{
+    width: 440px;
+    margin: 0;
+    display: inline-block;
+}
+
+#numero, #complemento{
+    width: 205px;
+    margin: 0;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+#part5{
+    width: 100%;    
+}
+
+#cidade, #estado{
+    width: 440px;
+    margin: 0;
+    display: inline-block;
+}
+
+#estado{
+    margin-left: 20px;   
+}
+
+#estado select{  
+    color: #a9adad;
+}
+
+#tabela{
+    padding: 5px;    
+}
+
+
+#formulario1{
+    border: 1px solid #032858;
+    box-shadow: 5px 5px 5px black;
+    width: 90%;
+    margin: auto;    
+}
+
+tr{
+    background-color: #032858; 
+    color: white;
+    text-align: center;
+    
+}
+
+th{
+    border-left: 1px solid white;
+}
+
+#tabela td{    
+    
+    border-left: 1px solid #032858;
+    border-bottom: 3px solid #032858;
+    background-color: white;
+    color:#032858 ;    
+}
+
+footer{  
+    color: #032858;
+    font-weight: bold;
+    text-align: center;
+
+}
+
